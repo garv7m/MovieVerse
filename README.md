@@ -5,4 +5,6 @@ Constructed a user‑friendly movie application using **HTML, CSS, and JavaScrip
 • Incorporated a search functionality using JavaScript, empowering users to effortlessly find specific movies based on their input</br>
 
 • Used object destructuring to efficiently extract relevant movie data from API responses and populate movie data into cards</br>
-  keeping the application content up‑to‑date
+  keeping the application content up‑to‑date</br>
+
+  Check it out here: https://garv7m.github.io/MovieVerse/
